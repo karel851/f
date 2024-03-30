@@ -4,15 +4,15 @@
 {
   "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
   "TITLE_TEXT": "last seen online",
-  "INTRO_TEXT_1": "you find an old computer at a garage sale.",
-  "INTRO_TEXT_2": "so you decide to turn it on.",
-  "CONTINUE_BUTTON": "continue",
-  "PASSWORD_TEXT": "Password:",
-  "PASSWORD_HINT": "Hint: little furry boy's name and my birth year",
+  "INTRO_TEXT_1": "Na garážovém výprodeji jsi našel starý počítač.",
+  "INTRO_TEXT_2": "Rozhodl ses ho zapnout.",
+  "CONTINUE_BUTTON": "pokračovat",
+  "PASSWORD_TEXT": "Heslo:",
+  "PASSWORD_HINT": "Nápověda: Jméno psa a můj rok narození",
   // Optional:
-  "LOGGING_IN": "logging in...",
+  "LOGGING_IN": "přihlašování...",
   // Optional:
-  "WELCOME_BACK": "welcome back...",
+  "WELCOME_BACK": "vítej zpět...",
   "DESKTOP_SHORTCUT_BUDDYLIST": "Buddy List",
   // Don't change LoseAmp Player name.
   // Kept here for consistency.
@@ -20,29 +20,29 @@
   "DESKTOP_SHORTCUT_OTHER_WORLD": "Other World",
   "DESKTOP_SHORTCUT_ZIP": "photos4em.zip",
   "UNZIPPER_TITLE": "UnZipper - photos4em.zip",
-  "UNZIPPER_TEXT": "This ZIP file is password-protected with a 4 digit code.",
-  "UNZIPPER_UNLOCK_BUTTON": "Unlock",
-  "UNZIPPER_INCORRECT_PASSWORD": "Incorrect password. Try again.",
+  "UNZIPPER_TEXT": "Tento ZIP soubor je chráněný 4 místným kódem.",
+  "UNZIPPER_UNLOCK_BUTTON": "Odemknout",
+  "UNZIPPER_INCORRECT_PASSWORD": "Nesprávné heslo.",
   // Optional:
-  "BUDDYLIST_SIGN_ON": "Sign On",
+  "BUDDYLIST_SIGN_ON": "Přihlásit se",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_1": "1. Using saved password...",
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Používání uloženého hesla...",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_2": "2. Connecting...",
+  "BUDDYLIST_SIGN_ON_STEP_2": "2. Připojování...",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_3": "3. Starting services...",
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Zapnínání služeb...",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_4": "4. Connected.",
+  "BUDDYLIST_SIGN_ON_STEP_4": "4. Připojeno.",
   "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
-  "USER_IS_OFFLINE": "this user is offline, wait until they get back on.",
+  "USER_IS_OFFLINE": "tento užvatel je offline, počkejte, než se zase přihlásí.",
   // <LIZ> colors the line of chat blue.
   // <SYSTEM> colors the line of chat gray.
   // <...ANYTHING ElSE> colors the line of chat red.
   "LAWSON_CHATLOG": [
-    "<LAWSON>: heyyy :) how is ur day going?",
-    "<LIZ>: its good",
-    "<LAWSON>: just good?? what are u up to?",
-    "<LIZ>: nothing much!! just listening to music playin ggames.. how about u??",
+    "<LAWSON>: Ahooj :) Jak se máš?",
+    "<LIZ>: Dá se",
+    "<LAWSON>: Jen se dá? Co právě děláš?",
+    "<LIZ>: nic extra, jen poslouchám hudbu a hraju hry, co ty?",
     "<LAWSON>: also just good here... gotta study for the algebra test soon or else my moms gonna kill meee",
     "<LIZ>: omg didnt your mom yell at you last time?",
     "<LAWSON>: yah... but i think i can do better this time",
