@@ -2,15 +2,15 @@
 // You don't have to translate everything, but I included
 // as much as I can just in case.
 {
-  "FONT_FAMILY": "PixelArial11, MadouFutoMaruGothic, PixeloidSans",
+  "FONT_FAMILY": "PixeloidSans",
   "TITLE_TEXT": "last seen online",
-  "INTRO_TEXT_1": "Na garážovém výprodeji jsi našel starý počítač.",
+  "INTRO_TEXT_1": "Na garázovém výprodeji jsi našel starý počítac.",
   "INTRO_TEXT_2": "Rozhodl ses ho zapnout.",
-  "CONTINUE_BUTTON": "pokračovat",
+  "CONTINUE_BUTTON": "pokracovat",
   "PASSWORD_TEXT": "Heslo:",
   "PASSWORD_HINT": "Nápověda: Jméno psa a můj rok narození",
   // Optional:
-  "LOGGING_IN": "přihlašování...",
+  "LOGGING_IN": "přihlasování...",
   // Optional:
   "WELCOME_BACK": "vítej zpět...",
   "DESKTOP_SHORTCUT_BUDDYLIST": "Buddy List",
@@ -26,11 +26,11 @@
   // Optional:
   "BUDDYLIST_SIGN_ON": "Přihlásit se",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_1": "1. Používání uloženého hesla...",
+  "BUDDYLIST_SIGN_ON_STEP_1": "1. Pouzívání ulozeného hesla...",
   // Optional:
   "BUDDYLIST_SIGN_ON_STEP_2": "2. Připojování...",
   // Optional:
-  "BUDDYLIST_SIGN_ON_STEP_3": "3. Zapnínání služeb...",
+  "BUDDYLIST_SIGN_ON_STEP_3": "3. Zapnínání sluzeb...",
   // Optional:
   "BUDDYLIST_SIGN_ON_STEP_4": "4. Připojeno.",
   "BUDDYLIST_CHAT_WINDOW_TITLE": "{0} - Chat",
