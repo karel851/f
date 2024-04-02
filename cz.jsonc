@@ -509,7 +509,7 @@
   "ENDING_I_EVEN_FORGOT_WHAT_I_USED_TO_LOOK_LIKE": "už si ani nevzpomínám jak jsem já sama vypadala...",
   "ENDING_HAVENT_SEEN_ANOTHER_PERSON": "už dlouho jsem tu neviděla dalšího člověka",
   // Implies that some separate system has logged onto your account.
-  "ENDING_SYSTEM_ACTION_ERROR": "<system> Tato akce nemůže býát provedena z důvodu přihlášení z jiného zařízení.",
+  "ENDING_SYSTEM_ACTION_ERROR": "<system> Tato akce nemůže být provedena z důvodu přihlášení z jiného zařízení.",
   "ENDING_YOU_ARE_OFFLINE": "<system> Jste offline.",
   "ENDING_YOU_ARE_ONLINE": "<system> Jste online.",
   // Liz:
